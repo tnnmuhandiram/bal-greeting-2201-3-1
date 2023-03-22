@@ -1,8 +1,8 @@
 [package]
 org = "tharindumuhandiram"
-name = "greeting_2201_3_0"
+name = "greeting_2201_3_1"
 version = "0.1.0"
-distribution = "2201.3.0"
+distribution = "2201.3.1"
 
 [build-options]
 observabilityIncluded = true
